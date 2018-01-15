@@ -9,6 +9,7 @@
             {
                 "extensions": [".js", ".jsx"]
             }
-        ]
+        ],
+        "linebreak-style": "off"
     }
 }
