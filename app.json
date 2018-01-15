@@ -2,7 +2,7 @@
   "expo": {
     "name": "Application name",
     "description": "Description about the app goes here",
-    "icon": "./images/app_image.png",
+    "icon": "./app/images/app_image.png",
     "version": "1.0.0",
     "slug": "someappname",
     "sdkVersion": "23.0.0",
